@@ -1,0 +1,38 @@
+body {
+    background: #fff;
+    font-family: "Georgia", "Helvetica";
+    color: #232323;
+    height: 100%;
+}
+
+#content {
+    border-top: 6px solid #d66a5c;
+    margin: 5vh auto ;
+    background: #f9f9f9;
+    padding: 5vh;
+}
+
+.talents {
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+}
+
+.talents li:nth-child(2) {
+    border-top: 1px solid #232323;
+}
+
+#job {
+    font-size: 20px;
+    text-align: left;
+}
+
+ul {
+    padding: 0;
+    float: left
+}
+
+h1 {
+    text-align: left;
+    font-size: 5em;
+}
